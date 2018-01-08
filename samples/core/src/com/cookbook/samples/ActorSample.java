@@ -18,7 +18,7 @@ import com.badlogic.gdx.utils.Disposable;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
-// Try 1 - Discord webhook test
+// Try 2 - Discord webhook test
 
 
 public class ActorSample extends GdxSample {
